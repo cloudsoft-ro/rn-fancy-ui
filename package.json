@@ -1,0 +1,33 @@
+{
+  "name": "rn-fancy-ui",
+  "version": "1.0.0",
+  "description": "Fancy UI is a utility-first component library that helps you build consistent UI across Android, iOS and Web.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudsoft-ro/rn-fancy-ui.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "ios",
+    "web",
+    "library",
+    "framework",
+    "typescript",
+    "javascript",
+    "es6",
+    "ui",
+    "fancy"
+  ],
+  "author": "Constantin Onu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudsoft-ro/rn-fancy-ui/issues"
+  },
+  "homepage": "https://github.com/cloudsoft-ro/rn-fancy-ui#readme"
+}
