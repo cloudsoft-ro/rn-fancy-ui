@@ -1,6 +1,6 @@
 {
   "name": "rn-fancy-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fancy UI is a utility-first component library that helps you build consistent UI across Android, iOS and Web.",
   "main": "index.ts",
   "scripts": {
